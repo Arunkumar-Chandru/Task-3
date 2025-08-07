@@ -21,4 +21,4 @@
 
 ## Screenshot
 
-![Library Management System Screenshot](screenshot.png)
+![Library Management System Screenshot](Image.png)
